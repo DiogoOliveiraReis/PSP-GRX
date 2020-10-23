@@ -1,5 +1,6 @@
 # PSP-GRX
-PSP-GRX
+
+Simple PSP sidescrolling game made by me using Lua Player Euphoria!
 
 ![1](https://github.com/DiogoReisrr/PSP-GRX/blob/main/doc/1.jpg)
 
